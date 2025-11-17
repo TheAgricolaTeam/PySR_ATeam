@@ -65,6 +65,13 @@ an explicit and powerful way to interpret deep neural networks.
 
 ## Installation
 
+NOTE (ALFONSO TORRES), it is better to create a new environment e.g. in anaconda terminal:
+
+conda create --name pysr
+then activate the environment
+
+conda activate pysr
+
 ### Pip
 
 You can install PySR with pip:
@@ -82,6 +89,16 @@ Similarly, with conda:
 ```bash
 conda install -c conda-forge pysr
 ```
+EXTRA STEPS NOTE (ALFONSO TORRES)
+
+After conda or pip installation, in the same environment install matplotlib.
+
+Then, in the terminal:
+
+python -c "import pysr"
+
+then this will complete additional libraries installation (in Julia language)
+
 
 <details>
 <summary>
