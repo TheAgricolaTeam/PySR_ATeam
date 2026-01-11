@@ -5,8 +5,9 @@ By Alfonso Torres-Rua, 2025, using PySR code by Miles Crammer
 This repository aims to provide be a living code where learning and improvements to perform regression and classification tasks using information mainly from Earth Science (remote sensing) and ground information.
 
 Examples:
-Green Biomass estimation (LAI) for vineyards using drone data.
-UAV temperature correction using meteorological and ground measurements data
+
+1. Green Biomass estimation (LAI) for vineyards using drone data.
+2. UAV temperature correction using meteorological and ground measurements data
 
 </div>
 
